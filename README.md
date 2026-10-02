@@ -24,3 +24,7 @@ living design doc; this folder holds code only.
 - [ ] Rung 5: voice prosody
 - [ ] Rung 6: trajectory prediction
 - [ ] Rung 7: second sense, no core changes
+
+## License
+
+Apache-2.0. See `LICENSE` and `NOTICE`.
